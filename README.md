@@ -18,7 +18,7 @@
 📱 Creator of ride-hailing, shuttle, marketplace, and ERP systems  
 🧠 Problem-solver at heart — passionate about clean code, logic, and product innovation  
 🤖 Exploring AI integrations, chat systems, automation, and geospatial tech  
-☁ Docker & Kubernetes, deployments and container orchestrations 
+☁ Docker & Kubernetes, deployments and container orchestrations
 📚 Lifelong learner | Growing in full-stack architecture, system design & startup scaling  
 📫 Let’s connect: a_aaliyan@yahoo.com
 
