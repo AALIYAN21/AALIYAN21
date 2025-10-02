@@ -1,36 +1,44 @@
-<h1 align="center">Hi there, I'm Aaliyan Ahmed 😎</h1>
+<h1 align="center">Hi there, I'm Aaliyan Ahmed 🎮</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b>
+  <b>Full Stack Web & Mobile App Developer</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=React%20Developer;MERN%20Stack%20Enthusiast;Always%20Learning%20Something%20New;&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Good+Software%2C+Like+Wine%2C+Takes+Time.">
 </p>
 
 ---
 
 ## 🌟 About Me
 
-💻 Full-Stack Developer | Turning ideas into scalable, efficient web solutions
-🔭 Currently exploring the depths of backend systems, APIs, and cloud deployment
-🧠 Problem-solver at heart — passionate about logic, clean code, and innovation
-📚 Lifelong learner, sharpening skills in full-stack architecture
+💻 Full-Stack Engineer | Building scalable SaaS, mobile apps & AI-powered solutions  
+🌐 React & React Native wizard | Crafting elegant web and mobile experiences  
+⚙️ Backend & DevOps | Node.js, Express, Django, MongoDB, CI/CD, cloud deployments  
+📱 Creator of ride-hailing, shuttle, marketplace, and ERP systems  
+🧠 Problem-solver at heart — passionate about clean code, logic, and product innovation  
+🤖 Exploring AI integrations, chat systems, automation, and geospatial tech  
+☁ Docker & Kubernetes, deployments and container orchestrations 
+📚 Lifelong learner | Growing in full-stack architecture, system design & startup scaling  
 📫 Let’s connect: a_aaliyan@yahoo.com
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Frontend       | Backend         | Database     | Tools & Platforms        |
-|----------------|-----------------|--------------|--------------------------|
-| React.js       | Node.js, Flask  | MongoDB      | Git & GitHub             |
-| HTML5          | Express.js      | PostgresSQL  | Postman, ThunderClient   |
-| CSS3, Tailwind | REST APIs       | Apache Kafka | VS Code, Chrome DevTools |
+| **Frontend**             | **Backend**                  | **Database**        | **DevOps & Tools**              |
+|---------------------------|-------------------------------|---------------------|---------------------------------|
+| React.js, Next.js         | Node.js, Express.js           | MongoDB             | Git & GitHub, GitHub Actions    |
+| React Native (Expo)       | Django, Flask                 | PostgreSQL          | Docker, Nginx, PM2              |
+| HTML5, CSS3, TailwindCSS  | REST APIs, GraphQL            | MySQL               | AWS (EC2, S3), Google Cloud     |
+| JavaScript (ES6+), TypeScript | Socket.io (real-time apps) | Redis, Apache Kafka | Postman, ThunderClient          |
+| Framer Motion, ShadCN UI  | AI/ML API Integrations        |                     | VS Code, Chrome DevTools        |
+
+
 
 ---
 
-> [🖥 View Projects →](ALL PRIVATE REPOs 😁)
+> [🖥 View Projects →](MOSTLY PRIVATE REPOs DUE TO OFFICIAL WORKS 😁)
 
 ---
 
